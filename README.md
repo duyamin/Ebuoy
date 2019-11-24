@@ -2,7 +2,7 @@
 ## 利用 YouTube 快速轻松提高英语水平
 
 
-![how to use Ebuoy.jpg](/assets/img/how to use Ebuoy.jpg)
+![how to use Ebuoy.jpg](https://bigzhu.net/assets/img/how%20to%20use%20Ebuoy.jpg)
 
 1. 找到喜爱的 YouTube 视频, 一键分享到 Ebuoy.
 2. 一边放视频, 一边读字幕文章.

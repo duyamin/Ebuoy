@@ -2,14 +2,14 @@
 ## 利用 YouTube 快速轻松提高英语水平
 
 
-![how to use Ebuoy.jpg](https://bigzhu.net/assets/img/how%20to%20use%20Ebuoy.jpg)
+<img src="https://bigzhu.net/assets/img/how%20to%20use%20Ebuoy.jpg" height="500px"/>
 
 1. 找到喜爱的 YouTube 视频, 一键分享到 Ebuoy.
 2. 一边放视频, 一边读字幕文章.
 3. 单击查词(配合欧陆字典), 长按标记单词为已掌握/未掌握.
 
 
-[![Get Ebuoy](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
 
 如果有任何问题和意见请提 issues 或者加入 https://t.me/Ebuoy 讨论.
 

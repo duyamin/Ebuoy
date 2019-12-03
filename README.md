@@ -1,3 +1,34 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Ebuoy 简要说明](#ebuoy-%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E)
+- [驱动力](#%E9%A9%B1%E5%8A%A8%E5%8A%9B)
+- [解决学习困难的根源: 兴趣阈值](#%E8%A7%A3%E5%86%B3%E5%AD%A6%E4%B9%A0%E5%9B%B0%E9%9A%BE%E7%9A%84%E6%A0%B9%E6%BA%90-%E5%85%B4%E8%B6%A3%E9%98%88%E5%80%BC)
+- [工具寻找](#%E5%B7%A5%E5%85%B7%E5%AF%BB%E6%89%BE)
+  - [每日英语听力](#%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B)
+  - [VoiceTube](#voicetube)
+  - [结论](#%E7%BB%93%E8%AE%BA)
+- [字典](#%E5%AD%97%E5%85%B8)
+  - [朗文5++ ·双解·例句发音](#%E6%9C%97%E6%96%875-%C2%B7%E5%8F%8C%E8%A7%A3%C2%B7%E4%BE%8B%E5%8F%A5%E5%8F%91%E9%9F%B3)
+  - [其他](#%E5%85%B6%E4%BB%96)
+- [Ebuoy 基础功能介绍](#ebuoy-%E5%9F%BA%E7%A1%80%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
+  - [分享自 YouTube](#%E5%88%86%E4%BA%AB%E8%87%AA-youtube)
+  - [单击查词](#%E5%8D%95%E5%87%BB%E6%9F%A5%E8%AF%8D)
+  - [标记单词](#%E6%A0%87%E8%AE%B0%E5%8D%95%E8%AF%8D)
+- [学习方法](#%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95)
+  - [理论支撑](#%E7%90%86%E8%AE%BA%E6%94%AF%E6%92%91)
+  - [方法一 快速阅读标记](#%E6%96%B9%E6%B3%95%E4%B8%80-%E5%BF%AB%E9%80%9F%E9%98%85%E8%AF%BB%E6%A0%87%E8%AE%B0)
+  - [方法二 精读增加可理解输入](#%E6%96%B9%E6%B3%95%E4%BA%8C-%E7%B2%BE%E8%AF%BB%E5%A2%9E%E5%8A%A0%E5%8F%AF%E7%90%86%E8%A7%A3%E8%BE%93%E5%85%A5)
+  - [方法三 豪华精读](#%E6%96%B9%E6%B3%95%E4%B8%89-%E8%B1%AA%E5%8D%8E%E7%B2%BE%E8%AF%BB)
+  - [方法四 内容聚焦](#%E6%96%B9%E6%B3%95%E5%9B%9B-%E5%86%85%E5%AE%B9%E8%81%9A%E7%84%A6)
+  - [听力加强](#%E5%90%AC%E5%8A%9B%E5%8A%A0%E5%BC%BA)
+- [Q & A](#q--a)
+- [使用日记](#%E4%BD%BF%E7%94%A8%E6%97%A5%E8%AE%B0)
+  - [2019.12.3](#2019123)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Ebuoy 简要说明
 
 Ebuoy(English Buoy) 是将 YouTube 字幕生成文章, 可逐个标记精读单词, 利用 YouTube 轻松提高英语的辅助学习 APP.

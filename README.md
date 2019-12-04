@@ -145,17 +145,17 @@ Ebuoy(English Buoy) 是将 YouTube 字幕生成文章, 可逐个标记精读单�
 
 ### 其他
 
-[牛津高阶英英第九版下载](https://downloads.freemdict.com/100G_Super_Big_Collection/%E8%8B%B1%E8%AF%AD/%E6%99%AE%E9%80%9A%E8%AF%8D%E5%85%B8/[%E8%8B%B1-%E8%8B%B1]/%E7%89%9B%E6%B4%A5%E8%AF%8D%E5%85%B8/Oxford%20Advanced%20Learner%27s%20Dictionary%209th%2C%2016-4-30/)
+* [牛津高阶英英第九版下载](https://downloads.freemdict.com/100G_Super_Big_Collection/%E8%8B%B1%E8%AF%AD/%E6%99%AE%E9%80%9A%E8%AF%8D%E5%85%B8/[%E8%8B%B1-%E8%8B%B1]/%E7%89%9B%E6%B4%A5%E8%AF%8D%E5%85%B8/Oxford%20Advanced%20Learner%27s%20Dictionary%209th%2C%2016-4-30/)
 
 作为补充, 带单词发音的, 带了精美的图片, 稍大, 耐心逐个下下来.
 
 牛津作为权威的英英词典, 解释简洁清晰, 有些解释想对照参考时可以和上一本互相补充.
 
-[柯林斯英英词典第八版下载](https://downloads.freemdict.com/100G_Super_Big_Collection/%E8%8B%B1%E8%AF%AD/%E6%99%AE%E9%80%9A%E8%AF%8D%E5%85%B8/%5B%E8%8B%B1-%E8%8B%B1%5D/%E6%9F%AF%E6%9E%97%E6%96%AF%E8%AF%8D%E5%85%B8/Collins%20COBUILD%20Advanced%20Learner%27s%20Dictinary%208th%2C%2016-4-20/)
+* [柯林斯英英词典第八版下载](https://downloads.freemdict.com/100G_Super_Big_Collection/%E8%8B%B1%E8%AF%AD/%E6%99%AE%E9%80%9A%E8%AF%8D%E5%85%B8/%5B%E8%8B%B1-%E8%8B%B1%5D/%E6%9F%AF%E6%9E%97%E6%96%AF%E8%AF%8D%E5%85%B8/Collins%20COBUILD%20Advanced%20Learner%27s%20Dictinary%208th%2C%2016-4-20/)
 
 柯林斯英英词典用最简单直白的英文描述, 来解释单词的含义. 没有发音, 所以小.  同样作为补充参考用.
 
-欧陆字典自带的 **听力原生例句** 
+* 欧陆字典自带的 **听力原生例句** 
 
 把 **每日英语听力** 中有这个单词的句子列了出来, 方便看句子结合上下文来理解, 也可以追溯到对应文章. 作为最后的补充, 一般不建议用, 除非实在实在不能理解单词意思在拉到最下面来查看.
 

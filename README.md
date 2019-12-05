@@ -36,18 +36,18 @@ Ebuoy(English Buoy) 是将 YouTube 字幕生成文章, 可逐个标记精读单�
 
 简单使用说明如图:
 
-<img src="https://bigzhu.net/assets/img/how%20to%20use%20Ebuoy.jpg" width="240px"/>
+<img src="/assets/img/how%20to%20use%20Ebuoy.jpg" width="240px"/>
 
 1. 把带英文字幕的视频从 YouTube APP 分享到 Ebuoy.
 2. 一边放视频, 一边读字幕文章.
 3. 单击查词(配合欧陆字典), 长按标记单词为已掌握/未掌握.
 
-<img src="https://bigzhu.net/assets/img/2019-10-01%2008.45.34.jpg" width="240px"/>
+<img src="/assets/img/2019-10-01%2008.45.34.jpg" width="240px"/>
 
 
 可以在 Google Play 下载:
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
+[<img src="/assets/img/en_badge_web_generic.png" width="200px">](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)
 
 如果有任何问题和意见请提 issues 或者加入 https://t.me/Ebuoy 讨论.
 
@@ -262,7 +262,7 @@ Ebuyo 功能很简单, 但是也可以玩出不同的学习方式来. 目标都�
 
 用了一段时间, 我大约都添加了 500 多个视频了, 每个视频的掌握程度不一样, 有的视频特别简单掌握度很高, 用排序按钮找出来:
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 17.03.26.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 17.03.26.jpg" width="240px"/>
 
 选择掌握度 95% 以上的文章, 可以开启精读模式. 因为里面未掌握的单词很少了, 零零散散的, 可以直接滚动找到未掌握单词那一句, 根据上下文来努力猜测单词意思; 如果时间间隔很长视频内容也忘了, 再从头看一遍也是极佳的, 看的过程顺便做标记游戏, 可能会很不幸的发现一些标记为已掌握的单词又不认识了.
 
@@ -272,7 +272,7 @@ Ebuyo 功能很简单, 但是也可以玩出不同的学习方式来. 目标都�
 
 看着列表里那么多接近 100% 的文章, 我总是想尽快扫到 100%, 这样才让人舒服, 所以扫的过程也不会枯燥无聊:
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 17.16.59.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 17.16.59.jpg" width="240px"/>
 
 ### 死磕单词
 
@@ -280,15 +280,15 @@ Ebuyo 功能很简单, 但是也可以玩出不同的学习方式来. 目标都�
 
 有多豪华呢? 我就直接用这个单词, 作为关键词, 到 YouTube APP 去搜索, 注意过滤条件加上必须要有字幕, 比如: stereotypes
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 19.29.36.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 19.29.36.jpg" width="240px"/>
 
 发现有个叫 Dude Perfect 的做了好几个 xxx Stereotypes 的节目, 看来他很喜欢 Stereotypes 哦
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 19.31.28.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 19.31.28.jpg" width="240px"/>
 
 最终我选择了 `Summer Stereotypes` 和 `Christmas Stereotypes` 两篇导入进去看:
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 19.40.01.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 19.40.01.jpg" width="240px"/>
 
 用方法一快速的看完一遍, 其实就很明白这个单词的意思了, 如果还是不懂, 那再继续添加这个单词的视频来看. 好在 YouTube 浩如烟海的视频, 一直看下去, 就算不查中文意思, 也总能明白这个单词的意思的.
 
@@ -306,11 +306,11 @@ Ebuyo 功能很简单, 但是也可以玩出不同的学习方式来. 目标都�
 
 如图, 一个是美国长大的墨西哥妹子, 视频轻松有趣, 用词生活化又简单, 于是一口气导了好多进去扎堆看.
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 20.10.37.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 20.10.37.jpg" width="240px"/>
 
 一个是野外求生的中年老男人, 系列的出了好多集, 想看着两个老货在野外怎么艰难找食物的, 看了就停不下来, 于是连续弄了好多集进去.
 
-<img src="https://bigzhu.net/assets/img/2019-12-03 20.29.31.jpg" width="240px"/>
+<img src="/assets/img/2019-12-03 20.29.31.jpg" width="240px"/>
 
 这样集中看的好处是, 即使是用方法一, 也总会遇到反复出现的一些未掌握单词, 为了不影响观看, 于是就主动去查了, 看的很爽, 也能几种的学到单词. 有这种上瘾的感觉, 状态会很好.
 
